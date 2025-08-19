@@ -13,6 +13,7 @@ setup(
         "streamlit",
         "python-dotenv",
         "PyPDF2",
+        "transformers",
     ],
     packages=find_packages(),
 )

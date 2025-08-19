@@ -1,0 +1,3 @@
+MCQ,Choices,Correct
+What is the primary difference between Generative AI and traditional AI systems?,"a: Generative AI can only analyze data, while traditional AI can classify data | b: Generative AI can create new content, while traditional AI can only analyze data | c: Generative AI is faster than traditional AI, while traditional AI is more accurate | d: Generative AI is only used for image generation, while traditional AI is used for text classification",b
+Which Generative AI model is known for its ability to generate realistic images and videos?,a: Transformers | b: Diffusion Models | c: Variational Autoencoders (VAEs) | d: Generative Adversarial Networks (GANs),d
