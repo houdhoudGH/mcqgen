@@ -60,4 +60,3 @@ if button and uploaded_file is not None and mcq_count and subject and difficulty
         except Exception as e:
             traceback.print_exception(type(e), e, e.__traceback__)
             st.error("Error generating quiz. Check logs for details.")
-a = 1
