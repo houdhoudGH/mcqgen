@@ -17,7 +17,7 @@ st.title("MCQs Creator Application with Hugging Face Model")
 
 with st.form("user_inputs"):
     uploaded_file = st.file_uploader("Upload a PDF or TXT file")
-    mcq_count = st.number_input("No. of MCQs", min_value=3, max_value=50)
+    mcq_count = st.number_input("No. of MCQs", min_value=1, max_value=50)
     subject = st.text_input("Insert Subject", max_chars=20)
     difficulty = st.text_input("Difficulty", max_chars=20, placeholder="Simple")
     button = st.form_submit_button("Create MCQs")
